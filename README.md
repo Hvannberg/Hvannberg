@@ -1,5 +1,9 @@
-## Hi there 👋
+##  👋
 
+# Nemendur í HBV301G Verkfræði kröfugreiningar 
+## Hér eru repo og verkefni sem eru tengd þeim 
+  [HBV301G-COS-2](https://github.com/Hvannberg/HBV301G-COS-2)
+- [Project borð fyrir COS-2 repo-ið](https://github.com/users/Hvannberg/projects/9/views/1)
 <!--
 **Hvannberg/Hvannberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
