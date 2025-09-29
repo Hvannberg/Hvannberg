@@ -7,6 +7,9 @@
 - [HBV301G-Verkefni2](https://github.com/Hvannberg/HBV301G-Verkefni2)
 - [HBV301G-COS-2](https://github.com/Hvannberg/HBV301G-COS-2)
   - [Project borð fyrir COS-2 repo-ið](https://github.com/users/Hvannberg/projects/9/views/1)
+- [HBV301G-Verkefni1](https://github.com/Hvannberg/HBV301G-Verkefni1)
+- [HBV301G-COS](https://github.com/Hvannberg/HBV301G-COS)
+  - [Project borð fyrir COS repo-ið](https://github.com/users/Hvannberg/projects/8)
 # Nemendur í HBV101G Inngangur að hugbúnaðarverkfræði 
 ## Hér er template af repository fyrir verkefni A3 
   [HBV101G-heuristics-template](https://github.com/Hvannberg/HBV101G-heuristics-template)
