@@ -13,7 +13,7 @@
 # Nemendur í HBV101G Inngangur að hugbúnaðarverkfræði 
 ## Hér er template af repository fyrir verkefni A3 
   [HBV101G-heuristics-template](https://github.com/Hvannberg/HBV101G-heuristics-template)
-    - Svona gæti [safnið ykkar](https://github.com/Hvannberg/HBV101G-heuristics-hopur0) litið út og [verkefnið](https://github.com/users/Hvannberg/projects/15/views/1)
+    - Svona gæti [safnið ykkar](https://github.com/Hvannberg/HBV101G-heuristics-hopur0) litið út í byrjun og [verkefnið](https://github.com/users/Hvannberg/projects/15/views/1)
     
 <!--
 **Hvannberg/Hvannberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
