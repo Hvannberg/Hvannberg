@@ -5,6 +5,7 @@
 - [HBV301G-Verkefni4](https://github.com/Hvannberg/HBV301G-Verkefni4)
 - [HBV301G-Verkefni3](https://github.com/Hvannberg/HBV301G-Verkefni3)
 - [HBV301G-COS-3](https://github.com/Hvannberg/HBV301G-COS-3)
+       [Project borð fyrir COS-3 repo-ið)(https://github.com/users/Hvannberg/projects/16)
 - [HBV301G-Verkefni2](https://github.com/Hvannberg/HBV301G-Verkefni2)
 - [HBV301G-COS-2](https://github.com/Hvannberg/HBV301G-COS-2)
   - [Project borð fyrir COS-2 repo-ið](https://github.com/users/Hvannberg/projects/9/views/1)
