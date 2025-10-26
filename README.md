@@ -2,6 +2,7 @@
 
 # Nemendur í HBV301G Verkfræði kröfugreiningar 
 ## Hér eru template, repo og verkefni (project) sem eru tengd þeim 
+- [HBV301G-Verkefni5](https://github.com/Hvannberg/HBV301G-Verkefni5-template)
 - [HBV301G-Verkefni4](https://github.com/Hvannberg/HBV301G-Verkefni4)
 - [HBV301G-Verkefni3](https://github.com/Hvannberg/HBV301G-Verkefni3)
 - [HBV301G-COS-3](https://github.com/Hvannberg/HBV301G-COS-3)
