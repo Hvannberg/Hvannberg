@@ -1,4 +1,5 @@
 ##  👋
+# Nemendur í HBV201G Viðmótsforritun 
 
 # Nemendur í HBV301G Verkfræði kröfugreiningar 
 ## Hér eru template, repo og verkefni (project) sem eru tengd þeim 
