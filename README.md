@@ -1,8 +1,9 @@
 ##  👋
 # Nemendur í HBV201G Viðmótsforritun 
-[HBV201G-forrit-2026](https://github.com/Hvannberg/HBV201G-forrit-2026)
+- [HBV201G-forrit-2026](https://github.com/Hvannberg/HBV201G-forrit-2026)
 
-[HBV201G-verkefni-2026](https://github.com/Hvannberg/HBV201G-verkefni-2026)
+- [HBV201G-verkefni-2026](https://github.com/Hvannberg/HBV201G-verkefni-2026)
+- [HBV201G-prof-2026](https://github.com/Hvannberg/HBV201G-prof-2026)
 # Nemendur í HBV301G Verkfræði kröfugreiningar 
 ## Hér eru template, repo og verkefni (project) sem eru tengd þeim 
 - [HBV301G-Verkefni6](https://github.com/Hvannberg/HBV301G-Verkefni6)
