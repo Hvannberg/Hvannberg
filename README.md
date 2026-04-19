@@ -5,7 +5,7 @@
 - [HBV201G-verkefni-2026](https://github.com/Hvannberg/HBV201G-verkefni-2026)
 - [HBV201G-prof-2026](https://github.com/Hvannberg/HBV201G-prof-2026)
 ### Prófverkefni og lausnir úr gömlum prófum 
-- [HBV201G-prof-Hlutaprof-2025](https://github.com/Hvannberg/HBV201G-Hlutaprof-2025-lausn)
+- [HBV201G-prof-Hlutaprof-2025](https://github.com/Hvannberg/HBV201G-Hlutaprof-2025)
 - [HBV201G-prof-2024](https://github.com/Hvannberg/HBV201G-Lokaprof-2024-lausn)
 - Sjá lausnir á eldri prófum á canvas síðu námskeiðsins
 # Nemendur í HBV301G Verkfræði kröfugreiningar 
