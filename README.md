@@ -1,8 +1,8 @@
 ##  👋
 # 
 # Nemendur í HBV301G Verkfræði kröfugreiningar 
-## Hér eru template, repo og verkefni (project) sem eru tengd þeim 
 <!-- Frá 2025
+## Hér eru template, repo og verkefni (project) sem eru tengd þeim 
  - [HBV301G-Verkefni6](https://github.com/Hvannberg/HBV301G-Verkefni6)
   - [HBV301G-COS-6](https://github.com/Hvannberg/HBV301G-COS-6)
   - [HBV301G-PR-Request-templates](https://github.com/Hvannberg/HBV301G-PR-Request-templates) ef þið viljið sjá hvernig hægt er að hafa mismunandi PR templates. 
