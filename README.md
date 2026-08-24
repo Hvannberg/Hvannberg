@@ -19,7 +19,7 @@
   - [Project borð fyrir COS repo-ið](https://github.com/users/Hvannberg/projects/8)
 -->
 
-# Nemendur í HBV201G Viðmótsforritun 
+### Nemendur í HBV201G Viðmótsforritun 
 <!-- Frá 2026
 - [HBV201G-forrit-2026](https://github.com/Hvannberg/HBV201G-forrit-2026)
 - [HBV201G-verkefni-2026](https://github.com/Hvannberg/HBV201G-verkefni-2026)
@@ -31,7 +31,7 @@
 - [HBV201G-prof-2024](https://github.com/Hvannberg/HBV201G-Lokaprof-2024-lausn)
 - Sjá lausnir á eldri prófum á canvas síðu námskeiðsins
 -->
-# Nemendur í HBV101G Inngangur að hugbúnaðarverkfræði 
+### Nemendur í HBV101G Inngangur að hugbúnaðarverkfræði 
 <!-- Frá 2025
 ## Hér er template af repository fyrir verkefni A3 
   [HBV101G-heuristics-template](https://github.com/Hvannberg/HBV101G-heuristics-template)
