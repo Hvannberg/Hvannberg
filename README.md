@@ -1,6 +1,10 @@
 ##  👋
 # 
 # Nemendur í HBV301G Verkfræði kröfugreiningar 
+<!-- 2026 -->
+
+- [HBV301G-Verkefni1](https://github.com/Hvannberg/HBV301G-Verkefni1)
+ 
 <!-- Frá 2025
 ## Hér eru template, repo og verkefni (project) sem eru tengd þeim 
  - [HBV301G-Verkefni6](https://github.com/Hvannberg/HBV301G-Verkefni6)
