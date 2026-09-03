@@ -3,7 +3,11 @@
 # Nemendur í HBV301G Verkfræði kröfugreiningar 
 <!-- 2026 -->
 
+Hér er template fyrir verkefni 1
 - [HBV301G-Verkefni1](https://github.com/Hvannberg/HBV301G-Verkefni1)
+
+Hér er lausn á verkefni 1 með Cafeteria Ordering System sem sýnidæmi 
+- [HBV301G-2026-COS](https://github.com/Hvannberg/HBV301G-2026-COS)
  
 <!-- Frá 2025
 ## Hér eru template, repo og verkefni (project) sem eru tengd þeim 
