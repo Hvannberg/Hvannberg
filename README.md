@@ -41,10 +41,11 @@ Hér er lausn á verkefni 1 með Cafeteria Ordering System sem sýnidæmi
 - Sjá lausnir á eldri prófum á canvas síðu námskeiðsins
 -->
 ### Nemendur í HBV101G Inngangur að hugbúnaðarverkfræði 
-<!-- Frá 2025
+
 ## Hér er template af repository fyrir verkefni A3 
   [HBV101G-heuristics-template](https://github.com/Hvannberg/HBV101G-heuristics-template)
     - Svona gæti [safnið ykkar](https://github.com/Hvannberg/HBV101G-heuristics-hopur0) litið út í byrjun og [verkefnið](https://github.com/users/Hvannberg/projects/15/views/1)
+<!-- Frá 2025
 -->
 
 <!--
