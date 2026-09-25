@@ -4,6 +4,7 @@
 <!-- 2026 -->
 
 Hér er template fyrir verkefni 2 og 1
+- [HBV301G-Verkefni3-template](https://github.com/Hvannberg/HBV301G-2026-Verkefni3-template)
 - [HBV301G-Verkefni2-template](https://github.com/Hvannberg/HBV301G-Verkefni2-template)
 - [HBV301G-Verkefni1](https://github.com/Hvannberg/HBV301G-Verkefni1)
 
