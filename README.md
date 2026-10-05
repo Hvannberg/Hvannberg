@@ -9,8 +9,9 @@ Hér er template fyrir verkefnin
 - [HBV301G-Verkefni2-template](https://github.com/Hvannberg/HBV301G-Verkefni2-template)
 - [HBV301G-Verkefni1](https://github.com/Hvannberg/HBV301G-Verkefni1)
 
-Hér er lausn á verkefni 1 með Cafeteria Ordering System sem sýnidæmi 
+Hér er lausn á verkefnum með Cafeteria Ordering System sem sýnidæmi 
 - [HBV301G-2026-COS](https://github.com/Hvannberg/HBV301G-2026-COS)
+- [HBV301G-Verkefni 2 lausn](https://github.com/Hvannberg/HBV301G-Verkefni2-lausn/)
  
 <!-- Frá 2025
 ## Hér eru template, repo og verkefni (project) sem eru tengd þeim 
